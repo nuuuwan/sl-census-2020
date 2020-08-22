@@ -1,0 +1,15 @@
+{
+  "title": "Cooking Fuel of Household",
+  "field_map": {
+    "FIELD-0001": "Fire wood",
+    "FIELD-0000": "Total Households",
+    "FIELD-0003": "Gas",
+    "FIELD-0002": "Kerosene",
+    "FIELD-0005": "Saw dust/Paddy husk",
+    "FIELD-0004": "Electricity",
+    "FIELD-0006": "Other"
+  },
+  "source": "http://www.statistics.gov.lk",
+  "year": 2012,
+  "lead_region_type": "gnd"
+}

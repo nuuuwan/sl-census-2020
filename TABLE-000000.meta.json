@@ -1,0 +1,9 @@
+{
+  "title": "Total Population",
+  "field_map": {
+    "FIELD-0000": "Total Population"
+  },
+  "source": "http://www.statistics.gov.lk",
+  "year": 2012,
+  "lead_region_type": "gnd"
+}

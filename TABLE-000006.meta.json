@@ -1,0 +1,19 @@
+{
+  "title": "Age Group of Population",
+  "field_map": {
+    "FIELD-0010": "90 and above",
+    "FIELD-0001": "Less than 10",
+    "FIELD-0000": "Total Population",
+    "FIELD-0003": "20 ~ 29",
+    "FIELD-0002": "10 ~ 19",
+    "FIELD-0005": "40 ~ 49",
+    "FIELD-0004": "30 ~ 39",
+    "FIELD-0007": "60 ~ 69",
+    "FIELD-0006": "50 ~ 59",
+    "FIELD-0009": "80 ~ 89",
+    "FIELD-0008": "70 ~ 79"
+  },
+  "source": "http://www.statistics.gov.lk",
+  "year": 2012,
+  "lead_region_type": "gnd"
+}

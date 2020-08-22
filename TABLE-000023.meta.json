@@ -1,0 +1,15 @@
+{
+  "title": "Solid Waste Disposal by Household",
+  "field_map": {
+    "FIELD-0001": "Collected by local authorities",
+    "FIELD-0000": "Total Households",
+    "FIELD-0003": "Occupants bury",
+    "FIELD-0002": "Occupants burn",
+    "FIELD-0005": "Occupants dispose solid waste into Road/River/Canal/Sea/Creek/Forest etc",
+    "FIELD-0004": "Occupants composting solid waste",
+    "FIELD-0006": "Other"
+  },
+  "source": "http://www.statistics.gov.lk",
+  "year": 2012,
+  "lead_region_type": "gnd"
+}

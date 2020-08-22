@@ -1,0 +1,18 @@
+{
+  "title": "Ethnicity of Population",
+  "field_map": {
+    "FIELD-0001": "Sinhalese",
+    "FIELD-0000": "Total Population",
+    "FIELD-0003": "Ind_Tamil",
+    "FIELD-0002": "SL_Tamil",
+    "FIELD-0005": "Burgher",
+    "FIELD-0004": "SL_Moor",
+    "FIELD-0007": "SL_Chetty",
+    "FIELD-0006": "Malay",
+    "FIELD-0009": "Other_Eth",
+    "FIELD-0008": "Bharatha"
+  },
+  "source": "http://www.statistics.gov.lk",
+  "year": 2012,
+  "lead_region_type": "gnd"
+}

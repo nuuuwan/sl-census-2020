@@ -1,0 +1,15 @@
+{
+  "title": "Toilet Facilities of Household",
+  "field_map": {
+    "FIELD-0001": "Water seal and connected to a piped sewer system",
+    "FIELD-0000": "Total Households",
+    "FIELD-0003": "Pour flush toilet (Not water seal)",
+    "FIELD-0002": "Water seal and connected to a septic tank",
+    "FIELD-0005": "Other",
+    "FIELD-0004": "Direct pit",
+    "FIELD-0006": "Not using a toilet"
+  },
+  "source": "http://www.statistics.gov.lk",
+  "year": 2012,
+  "lead_region_type": "gnd"
+}

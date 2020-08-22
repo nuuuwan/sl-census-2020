@@ -1,0 +1,17 @@
+{
+  "title": "Marital Status of Population",
+  "field_map": {
+    "FIELD-0001": "Never married",
+    "FIELD-0000": "Total Population",
+    "FIELD-0003": "Married (Customary)",
+    "FIELD-0002": "Married ((Registered)",
+    "FIELD-0005": "Divorced",
+    "FIELD-0004": "Widowed",
+    "FIELD-0007": "Separated (not legally)",
+    "FIELD-0006": "Legally separated",
+    "FIELD-0008": "Not Stated"
+  },
+  "source": "http://www.statistics.gov.lk",
+  "year": 2012,
+  "lead_region_type": "gnd"
+}

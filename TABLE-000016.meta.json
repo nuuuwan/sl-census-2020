@@ -1,0 +1,19 @@
+{
+  "title": "Rooms in Housing Unit",
+  "field_map": {
+    "FIELD-0010": "10 and above",
+    "FIELD-0001": "1 Room",
+    "FIELD-0000": "Total Housing units",
+    "FIELD-0003": "3 Rooms",
+    "FIELD-0002": "2 Rooms",
+    "FIELD-0005": "5 Rooms",
+    "FIELD-0004": "4 Rooms",
+    "FIELD-0007": "7 Rooms",
+    "FIELD-0006": "6 Rooms",
+    "FIELD-0009": "9 Rooms",
+    "FIELD-0008": "8 Rooms"
+  },
+  "source": "http://www.statistics.gov.lk",
+  "year": 2012,
+  "lead_region_type": "gnd"
+}

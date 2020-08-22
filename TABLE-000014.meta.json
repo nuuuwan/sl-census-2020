@@ -1,0 +1,19 @@
+{
+  "title": "Persons Living in Housing Unit",
+  "field_map": {
+    "FIELD-0010": "10 or more",
+    "FIELD-0001": "1 Person",
+    "FIELD-0000": "Total Housing units",
+    "FIELD-0003": "3 Persons",
+    "FIELD-0002": "2 Persons",
+    "FIELD-0005": "5 Persons",
+    "FIELD-0004": "4 Persons",
+    "FIELD-0007": "7 Persons",
+    "FIELD-0006": "6 Persons",
+    "FIELD-0009": "9 Persons",
+    "FIELD-0008": "8 Persons"
+  },
+  "source": "http://www.statistics.gov.lk",
+  "year": 2012,
+  "lead_region_type": "gnd"
+}

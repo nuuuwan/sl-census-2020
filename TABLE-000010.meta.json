@@ -1,0 +1,18 @@
+{
+  "title": "Structure of Housing Units",
+  "field_map": {
+    "FIELD-0001": "Single house - Single floor",
+    "FIELD-0000": "Total Housing units",
+    "FIELD-0003": "Single house- More than 2 floors",
+    "FIELD-0002": "Single house - Double floor",
+    "FIELD-0005": "Flat",
+    "FIELD-0004": "Attached house/Annex",
+    "FIELD-0007": "Twin house",
+    "FIELD-0006": "Condominium",
+    "FIELD-0009": "Hut/Shanty",
+    "FIELD-0008": "Row house / Line room"
+  },
+  "source": "http://www.statistics.gov.lk",
+  "year": 2012,
+  "lead_region_type": "gnd"
+}

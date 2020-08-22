@@ -1,0 +1,15 @@
+{
+  "title": "Religious Affiliation of Population",
+  "field_map": {
+    "FIELD-0001": "Buddhist",
+    "FIELD-0000": "Total Population",
+    "FIELD-0003": "Islam",
+    "FIELD-0002": "Hindu",
+    "FIELD-0005": "Other Christian",
+    "FIELD-0004": "Roman Catholic",
+    "FIELD-0006": "Other"
+  },
+  "source": "http://www.statistics.gov.lk",
+  "year": 2012,
+  "lead_region_type": "gnd"
+}

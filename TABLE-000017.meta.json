@@ -1,0 +1,21 @@
+{
+  "title": "Year of Construction of Housing Unit",
+  "field_map": {
+    "FIELD-0011": "1980-1989",
+    "FIELD-0010": "1990-1994",
+    "FIELD-0012": "Before 80",
+    "FIELD-0001": "2011",
+    "FIELD-0000": "Total Housing units",
+    "FIELD-0003": "2009",
+    "FIELD-0002": "2010",
+    "FIELD-0005": "2007",
+    "FIELD-0004": "2008",
+    "FIELD-0007": "2005",
+    "FIELD-0006": "2006",
+    "FIELD-0009": "1995-1999",
+    "FIELD-0008": "2000-2004"
+  },
+  "source": "http://www.statistics.gov.lk",
+  "year": 2012,
+  "lead_region_type": "gnd"
+}

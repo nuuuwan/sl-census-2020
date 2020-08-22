@@ -1,0 +1,12 @@
+{
+  "title": "Living Quarters",
+  "field_map": {
+    "FIELD-0001": "Housing Unit",
+    "FIELD-0000": "Total Living Quarters",
+    "FIELD-0003": "Non Housing Unit",
+    "FIELD-0002": "Collective Living Quarter"
+  },
+  "source": "http://www.statistics.gov.lk",
+  "year": 2012,
+  "lead_region_type": "gnd"
+}

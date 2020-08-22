@@ -1,0 +1,16 @@
+{
+  "title": "Floor Type in Housing Unit",
+  "field_map": {
+    "FIELD-0001": "Cement",
+    "FIELD-0000": "Total Housing units",
+    "FIELD-0003": "Mud",
+    "FIELD-0002": "Tile/Granite/Terrazo",
+    "FIELD-0005": "Sand",
+    "FIELD-0004": "Wood",
+    "FIELD-0007": "Other",
+    "FIELD-0006": "Concrete"
+  },
+  "source": "http://www.statistics.gov.lk",
+  "year": 2012,
+  "lead_region_type": "gnd"
+}

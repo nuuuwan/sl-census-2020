@@ -1,0 +1,14 @@
+{
+  "title": "Households Living in Housing Unit",
+  "field_map": {
+    "FIELD-0001": "1 Household",
+    "FIELD-0000": "Total Housing units",
+    "FIELD-0003": "3 Households",
+    "FIELD-0002": "2 Households",
+    "FIELD-0005": "5 or more",
+    "FIELD-0004": "4 Households"
+  },
+  "source": "http://www.statistics.gov.lk",
+  "year": 2012,
+  "lead_region_type": "gnd"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Wall Type in Housing Units",
+  "field_map": {
+    "FIELD-0001": "Brick",
+    "FIELD-0000": "Total Housing units",
+    "FIELD-0003": "Cabook",
+    "FIELD-0002": "Cement block/Stone",
+    "FIELD-0005": "Mud",
+    "FIELD-0004": "Soil bricks",
+    "FIELD-0007": "Plank/Metal Sheet",
+    "FIELD-0006": "Cadjan/Palmyrah",
+    "FIELD-0008": "Other"
+  },
+  "source": "http://www.statistics.gov.lk",
+  "year": 2012,
+  "lead_region_type": "gnd"
+}

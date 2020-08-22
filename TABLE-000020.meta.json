@@ -1,0 +1,15 @@
+{
+  "title": "Lighting of Household",
+  "field_map": {
+    "FIELD-0001": "Electricity-National Electricity Network",
+    "FIELD-0000": "Total Households",
+    "FIELD-0003": "Kerosene",
+    "FIELD-0002": "Electricity-Rural Hydro Electricity Projects",
+    "FIELD-0005": "Bio Gas",
+    "FIELD-0004": "Solar power",
+    "FIELD-0006": "Other"
+  },
+  "source": "http://www.statistics.gov.lk",
+  "year": 2012,
+  "lead_region_type": "gnd"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Source of Drinking Water of Household",
+  "field_map": {
+    "FIELD-0011": "Rain water",
+    "FIELD-0010": "River/Tank/Stream",
+    "FIELD-0013": "Other",
+    "FIELD-0012": "Bottled water",
+    "FIELD-0001": "Protected well within premises",
+    "FIELD-0000": "Total Households",
+    "FIELD-0003": "Unprotected well",
+    "FIELD-0002": "Protected well outside premises",
+    "FIELD-0005": "Tap within premises but outside unit (main line)",
+    "FIELD-0004": "Tap within unit (main line)",
+    "FIELD-0007": "Rural water projects",
+    "FIELD-0006": "Tap outside premises (main line)",
+    "FIELD-0009": "Bowser",
+    "FIELD-0008": "Tube well"
+  },
+  "source": "http://www.statistics.gov.lk",
+  "year": 2012,
+  "lead_region_type": "gnd"
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Occupation Status of Housing Units",
+  "field_map": {
+    "FIELD-0001": "Occupied",
+    "FIELD-0000": "Total Housing units",
+    "FIELD-0002": "Vacant"
+  },
+  "source": "http://www.statistics.gov.lk",
+  "year": 2012,
+  "lead_region_type": "gnd"
+}

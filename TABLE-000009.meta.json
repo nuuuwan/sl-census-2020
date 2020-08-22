@@ -1,0 +1,13 @@
+{
+  "title": "Type of Housing Unit",
+  "field_map": {
+    "FIELD-0001": "Permanent",
+    "FIELD-0000": "Total Housing units",
+    "FIELD-0003": "Improvised",
+    "FIELD-0002": "Semi-permanent",
+    "FIELD-0004": "Unclassified"
+  },
+  "source": "http://www.statistics.gov.lk",
+  "year": 2012,
+  "lead_region_type": "gnd"
+}

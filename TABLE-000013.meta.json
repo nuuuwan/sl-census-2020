@@ -1,0 +1,16 @@
+{
+  "title": "Roof Type in Housing Unit",
+  "field_map": {
+    "FIELD-0001": "Tile",
+    "FIELD-0000": "Total Housing units",
+    "FIELD-0003": "Concrete",
+    "FIELD-0002": "Asbestos",
+    "FIELD-0005": "Metal sheet",
+    "FIELD-0004": "Zink Aluminium sheet",
+    "FIELD-0007": "Other",
+    "FIELD-0006": "Cadjan/Palmyrah/Straw"
+  },
+  "source": "http://www.statistics.gov.lk",
+  "year": 2012,
+  "lead_region_type": "gnd"
+}

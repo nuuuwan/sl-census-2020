@@ -1,0 +1,21 @@
+{
+  "title": "Relationship to Household Head of Population",
+  "field_map": {
+    "FIELD-0011": "Clergy",
+    "FIELD-0010": "Non relative",
+    "FIELD-0012": "Not stated",
+    "FIELD-0001": "Head",
+    "FIELD-0000": "Total Population",
+    "FIELD-0003": "Son/daughter",
+    "FIELD-0002": "Wife/Husband",
+    "FIELD-0005": "Grandchild/Great grand child",
+    "FIELD-0004": "Son/Daughter-in-law",
+    "FIELD-0007": "Other relative",
+    "FIELD-0006": "Parent of head or spouse",
+    "FIELD-0009": "Boarder",
+    "FIELD-0008": "Domestic employee"
+  },
+  "source": "http://www.statistics.gov.lk",
+  "year": 2012,
+  "lead_region_type": "gnd"
+}

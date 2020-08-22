@@ -1,0 +1,15 @@
+{
+  "title": "Housing Ownership Status of Household",
+  "field_map": {
+    "FIELD-0001": "Owned by a household member",
+    "FIELD-0000": "Total Households",
+    "FIELD-0003": "Rent/Lease-Privately owned",
+    "FIELD-0002": "Rent/Lease-government owned",
+    "FIELD-0005": "Encroached",
+    "FIELD-0004": "Occupied free of rent",
+    "FIELD-0006": "Other"
+  },
+  "source": "http://www.statistics.gov.lk",
+  "year": 2012,
+  "lead_region_type": "gnd"
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Gender of Population",
+  "field_map": {
+    "FIELD-0001": "Male",
+    "FIELD-0000": "Total Population",
+    "FIELD-0002": "Female"
+  },
+  "source": "http://www.statistics.gov.lk",
+  "year": 2012,
+  "lead_region_type": "gnd"
+}
